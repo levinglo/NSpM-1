@@ -1,0 +1,6 @@
+ASK
+WHERE {
+?city rdf:type dbo:Town.
+?city dbo:country dbr:Germany.
+?city rdfs:label "Backnang"@en
+}

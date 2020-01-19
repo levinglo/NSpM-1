@@ -1,0 +1,7 @@
+SELECT DISTINCT ?label
+WHERE {
+?city rdf:type dbo:Town.
+?city dbo:country dbr:Germany.
+?city rdfs:label ?label.
+FILTER(lang(?label) = 'de')
+}

@@ -1,0 +1,198 @@
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Braunsbedra par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Glanbach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Guesten par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Lenzen (Elbe) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Muecheln (Geiseltal) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Osterburg (Altmark) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Schwanebeck par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Stoessen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Tangerhuette par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Teuchern par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Amoeneburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Asperg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Babenhausen (Hessen) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Camberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Saulgau par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Beilngries par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Blecke par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Burgbernheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Burgdorf (Region Hannover) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Damme (Duemmer) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Dannenberg (Elbe) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Dingolfing par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Dippoldiswal par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Doemitz par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Ebermannstadt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Elsterberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Eschenbach in r Oberpfalz par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Esens par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Frohburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Garz/Ruegen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Geisenfeld par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Geringswal par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Gerlingen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Gernsbach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Hallstadt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Hausach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Huefingen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Kelkheim (Taunus) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Kirchenlamitz par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Kolbermoor par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Koelleda par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Koenigsbrueck par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Langewiesen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Lehrte par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Lunzenau par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Lychen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Marktleuthen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Nabburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Naumburg (Hessen) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Neumarkt in r Oberpfalz par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Neusalza-Spremberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Obernkirchen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Oberviechtach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Oeran par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Osterhofen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Parsberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Pfreimd par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Raburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Raunheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Rehna par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Reinheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Rodalben par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Schiltach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Schlettau par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Schwaigern par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Schoeneck/Vogtl. par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Stadtbergen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Steinau an r Strasse par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Tittmoning par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Trenlburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Triptis par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Wel par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Welzow par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Westerste par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Wilnfels par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Hamm-Rhynern par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Buehl (Ban) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Kulmbach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Abensberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Mainz par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Brand-Erbisdorf par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Speicher (Eifel) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Sulzbach-Rosenberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Vogtsburg im Kaiserstuhl par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Lauchstaedt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Wimpfen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Baesweiler par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bretten par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Brilon par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Datteln par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Dietfurt an r Altmuehl par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Frechen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Friedrichstadt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Ilsenburg (Harz) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Isselburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Laufenburg (Ban) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Leichlingen (Rheinland) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Luebben (Spreewald) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Mainbernheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Mechernich par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Neckargemuend par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Nierstein par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Pfullendorf par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Sankt Goarshausen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Sassnitz par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Vellmar par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Werdau par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Willebassen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Ban-Ban par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Fehmarn par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Ploen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Tuebingen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Alfeld (Leine) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Anklam par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Ganrsheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Durstadt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Eckernfoer par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Emn par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Hameln par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Heppenheim (Bergstrasse) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Kaiserslautern par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Koenigslutter am Elm par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Laupheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Leisnig par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Ludwigshafen am Rhein par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Muehlacker par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Pruem par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Pulheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Rinteln par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Salzwel par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Schweinfurt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Siegburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Soest par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Ulm par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Uslar par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Vern (Aller) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Warburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Altoetting par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Bramstedt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Woerishofen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bornheim (Rheinland) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Breisach am Rhein par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Brueck par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Donauwoerth par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Gengenbach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Gevelsberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Grafenwoehr par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Gross-Gerau par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Guenzburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Hemau par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Herrnhut par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Hersbruck par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Maulbronn par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Mesche par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Michelstadt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Mittweida par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Monheim am Rhein par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Moosburg an r Isar par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Nachrodt-Wiblingwer par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Osterholz-Scharmbeck par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Peine par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Pinneberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Prichsenstadt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Rheinstetten par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Schwaebisch Gmuend par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Soltau par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Sulzburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Velbert par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Waltershausen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Weinsberg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Rottenburg an r Laaber par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Urach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Florstadt par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Neustadt am Ruebenberge par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Rothenburg ob r Tauber par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Stein (Mittelfranken) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Tessin (bei Rostock) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Maerkisch Buchholz par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Grafenau (Nierbayern) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Lichtenfels (Oberfranken) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Geestland par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bad Elster par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Brake (Unterweser) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Bendorf par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Neuhaus am Rennweg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Freinsheim par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Freunberg (Ban) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Hilchenbach par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Ibbenbueren par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Lienen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Lotte (Westfalen) par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Sulz am Neckar par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Neuerburg par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Osthofen par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Sinzig par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Toenisvorst par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Wittlich par_close brack_close
+ask where brack_open var_c rdf_type dbo_Town sep_dot var_c dbo_country dbr_Germany sep_dot var_c rdfs_label par_open Wolfstein par_close brack_close
