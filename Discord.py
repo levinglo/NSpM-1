@@ -4,7 +4,7 @@ import random
 import subprocess
 import os
 import sys
-TOKEN ='NjY4MTMzMjE5MzQxNjk3MDI0.XiWT0w.g3x7KQQ1z-UnJE4XBKrSzpAjLgU'
+TOKEN ='NjY4ODY3NDAyNjc0NDcwOTEy.XiXhXg.UF--adZDmOETFRJvuz5MfNfE51o'
 
 client = discord.Client()
 
@@ -47,23 +47,26 @@ async def on_message(message):
         try:
             sparql.setQuery(antwort)
             sparql.setReturnFormat(JSON)
-        except:
-            await message.channel.send("How bout englisch bra?")
-        results = sparql.query().convert()
-        print(results)
+            results = sparql.query().convert()
+        except Exception:
+            await message.channel.send("Please rewrite your question")
         try:
             if results["results"]["bindings"]:
                 for result in results["results"]["bindings"]:
                     if str(result["a"]["xml:lang"]) == 'en' :
                         await  message.channel.send("Are you looking for?\n"+result["a"]["value"])
-            elif results["boolean"]:
+        except:
+            print("No results just a question or bad query")
+        try:    #await message.channel.send("Wow it is a monument")
+            if results["boolean"]:
                 await message.channel.send("Wow it is a monument")
             else:
                 await message.channel.send("You will never get this")
-        except:
-            await message.channel.send("How bout englisch bra?")
-        #await message.channel.send(results['boolean'])
-
+                #await message.channel.send("How bout englisch bra?")
+            #await message.channel.send(results['boolean'])
+        except Exception:
+            print("Its not from type boolean or bad query")
+        
 
 
 
